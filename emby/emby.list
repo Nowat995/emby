@@ -100,7 +100,7 @@ DOMAIN-SUFFIX,az-hk.embyclub.com
 DOMAIN-SUFFIX,azsgp.embyclub.com
 
 #流媒体卡戎服务器
-DOMAIN-SUFFIX,play.charontv.com
+DOMAIN-SUFFIX,charontv.com
 
 #流媒体大白服务器
 DOMAIN-SUFFIX,emby.p-p.men
@@ -126,5 +126,34 @@ DOMAIN-SUFFIX,cc.ccemby.tk
 
 #流媒体Nebula服务器
 DOMAIN-SUFFIX,direct.nebula-emby.com
+
+#流媒体Magpie服务器
+DOMAIN-SUFFIX,magpie.cyou
+
+#流媒体cc服务器
+DOMAIN-SUFFIX,ccemby.tk
+
+#流媒体品云服务器
+DOMAIN-SUFFIX,embyplus.club
+#拨浪鼓
+DOMAIN-SUFFIX,speedx.one
+#peach
+DOMAIN-SUFFIX,embymv.tk
+#MJJ
+DOMAIN-SUFFIX,mjjemby.org
+#BDD
+DOMAIN-SUFFIX,bddup.com
+#1111
+DOMAIN-SUFFIX,emby.cl
+#蓝海
+DOMAIN-SUFFIX,ddns.me
+#23
+IP-CIDR,188.172.228.49/32
+#liangshan
+DOMAIN-SUFFIX,shuipo.lol
+#莫高雷
+IP-CIDR,202.61.255.248/32
+
+
 
 
